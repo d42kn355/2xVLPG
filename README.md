@@ -8,3 +8,5 @@ Mounting Type: Slots - Rail Compatible 
 Module Type: Passive
 
 Basis: Meng Qi Dual LPG
+
+![](Dual Passive VLPG.jpg)
