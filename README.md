@@ -9,4 +9,4 @@ Module Type: Passive
 
 Basis: Meng Qi Dual LPG
 
-![](Dual Passive VLPG.jpg)
+![](2xVLPG/Dual Passive VLPG.jpg)
